@@ -1,6 +1,6 @@
 # edge
 
-These functions enable GitHub authentication and facilitate communication with external APIs while adhering to CORS policies in Vercel projects.
+These functions enable GitHub authentication and facilitate communication with external APIs while adhering to CORS policies in Vercel / Cloudflare Worker projects.
 
 ```js
 validRedir(redirectUrlString, url) // Checks if a URL matches wildcard patterns in redirectUrlString.
