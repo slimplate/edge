@@ -8,3 +8,5 @@ ghcallback(req, res, REDIRECT_URL, GITHUB_CLIENT, GITHUB_SECRET) // Handles GitH
 ghlogin(req, res, REDIRECT_URL, GITHUB_CLIENT) // Initiates GitHub login flow and redirects to GitHub OAuth authorization endpoint.
 cors(req, res) // Acts as a CORS proxy for external API requests, handling headers and forwarding the request.
 ```
+
+You can see a Vercel usage-example [here](https://github.com/slimplate/slimplate-nextjs/tree/main/src/pages/api).
