@@ -1,6 +1,6 @@
 {
   "name": "@slimplate/edge",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides backend functions for GitHub authentication and a CORS proxy on Vercel",
   "keywords": [
     "slimplate",
